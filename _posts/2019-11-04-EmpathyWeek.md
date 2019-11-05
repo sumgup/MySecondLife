@@ -4,7 +4,7 @@ title:  "Empathy Week"
 date:   2019-11-04 08:30:00 +0530
 categories: [journey, UX, DesignThinking]
 tags : [journey]
-image : assets/images/*.jpg
+image : assets/images/empathy.jpg
 ---
 
 This week is a beginning of case study, where I will interview people and also give them a probing kit.  Lets start with the basics.
