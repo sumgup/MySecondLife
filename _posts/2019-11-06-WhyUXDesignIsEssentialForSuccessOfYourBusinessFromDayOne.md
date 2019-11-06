@@ -45,9 +45,9 @@ A tech company is conditioned to think from the perspective of what technology c
 
 If a business has built a product that customer doesn't want than it could result in following:
 
-**1. ** Another iteration of the product
+1. **Another iteration of the product**
 
-**2.** Failure of the company or product.
+2. **Failure of the company or product.**
 
 Imagine you have built a product based on your gut feeling and you launched it, it comes in hands of customer and no one understands it. Or it could be there is no need for such a product.  You have wasted **development cycles, money and time.**
 
