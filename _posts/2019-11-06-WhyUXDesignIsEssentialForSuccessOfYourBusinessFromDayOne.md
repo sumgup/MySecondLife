@@ -14,7 +14,7 @@ image : assets/images/business.jpg
 
 ## Why do Startups fail?
 
-Let's start with failures, why do so many new business ideas fail to make it to the market.  I would listen to an expert like Paul Graham**](http://www.paulgraham.com/) .  
+Let's start with failures, why do so many new business ideas fail to make it to the market.  I would listen to an expert like [Paul Graham](http://www.paulgraham.com).
 
 *Paul is founder of YCombinator which is an incubator and resulted in startups like Airbnb, Stripe, Dropbox and lot more.* 
 
@@ -25,7 +25,7 @@ This leads to the question of how can startups make something that user desires.
 
 ## Obstructions in creating a Desirable Product
 
-My number one Obstruction : Engineering. More than Engineering its the mindset issue.  I will focus on why it's a devil because our society has been conditioned to invest in engineering.  We have heavily relied on engineers to build businesses. In engineering what gets taught is technology i.e. Microprocessors, RAM. There is nothing wrong in understanding in's and outs of Computer but what is not taught in an engineering curriculum is the human aspect of computing. This aspect covers are you building something that customer wants? Have you tested your assumption before building a software solution?
+My number one Obstruction : **Engineering**. More than Engineering its the mindset issue.  I will focus on why it's a devil because our society has been conditioned to invest in engineering.  We have heavily relied on engineers to build businesses. In engineering what gets taught is technology i.e. Microprocessors, RAM. There is nothing wrong in understanding in's and outs of Computer but what is not taught in an engineering curriculum is the human aspect of computing. This aspect covers are you building something that customer wants? Have you tested your assumption before building a software solution?
 
 With the basics missing when an engineering talent joins an organisation they will think in a reverse way i.e. how much RAM I need, how much processing is required, which programming language is better. I have seen technical discussions and meetings going for and endless number of hours.  There is endless amount of hours burnt discussing Python is better over Java, AWS cloud is better than Azure and lot more. 
 
@@ -39,7 +39,10 @@ If one has to start building a business than start with people who are crazy abo
 
 A tech company is conditioned to think from the perspective of what technology can offer not what the user wants. Steve Jobs has clearly reasoned success behind Apple:
 
-**'You've got to start with the customer experience and work backwards to the technology. You can't start with the technology and try to figure out where can I sell it.' Steve Jobs**
+> You've got to start with the customer experience and work backwards to the technology. You can't start with the technology and try to figure out where can I sell it.
+>
+> Steve Jobs
+>
 
 ## Cost Of Mistakes made during Software Development
 
