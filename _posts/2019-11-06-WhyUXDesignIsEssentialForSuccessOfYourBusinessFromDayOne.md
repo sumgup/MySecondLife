@@ -14,7 +14,7 @@ image : assets/images/business.jpg
 
 ## Why do Startups fail?
 
-Let's start with failures, why do so many new business ideas fail to make it to the market.  I would rely on an expert like Paul Graham.  Paul is founder of YCombinator which is an incubator and resulted in startups like Airbnb, Stripe, Dropbox and lot more. 
+Let's start with failures, why do so many new business ideas fail to make it to the market.  I would rely on an expert like [**Paul Graham**](http://www.paulgraham.com/).  Paul is founder of YCombinator which is an incubator and resulted in startups like Airbnb, Stripe, Dropbox and lot more. 
 
 > "There's just one mistake that kills startups: not making something users want. If you make something users want, you'll probably be fine, whatever else you do or don't do. And if you don't make something users want, then you're dead, whatever else you do or don't do."
 >
@@ -23,7 +23,7 @@ This leads to the question of how can startups make something that user desires.
 
 ## Obstructions in creating a Desirable Product
 
-My number one Obstruction : It is a known devil and a friend: Technology. More than technology its the mindset issue.  I will focus on why it's a devil because our society has been conditioned to invest in engineering.  We have heavily relied on engineers to build businesses. In engineering what gets taught is technology i.e. Microprocessors, RAM. There is nothing wrong is understanding in's and outs of Computer but what is not taught in an engineering curriculum is the human aspect of computing. This aspect covers are you building something that customer wants? Have you tested your assumption before building a software solution?
+My number one Obstruction : It is a known devil and a friend: Engineering. More than Engineering its the mindset issue.  I will focus on why it's a devil because our society has been conditioned to invest in engineering.  We have heavily relied on engineers to build businesses. In engineering what gets taught is technology i.e. Microprocessors, RAM. There is nothing wrong in understanding in's and outs of Computer but what is not taught in an engineering curriculum is the human aspect of computing. This aspect covers are you building something that customer wants? Have you tested your assumption before building a software solution?
 
 With the basics missing when an engineering talent joins an organisation they will think in a reverse way i.e. how much RAM I need, how much processing is required, which programming language is better. I have seen technical discussions and meetings going for and endless number of hours.  There is endless amount of hours burnt discussing Python is better over Java, AWS cloud is better than Azure and lot more. 
 
