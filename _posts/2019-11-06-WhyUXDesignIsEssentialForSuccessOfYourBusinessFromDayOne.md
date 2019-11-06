@@ -63,7 +63,7 @@ Here are the part which makes this sweet spot:
 
    
 
-   ![TripPlanning](/home/sumitgup/Dropbox/Blog/mysecondlife/assets/images/tripplanning.png)
+   ![TripPlanning](../assets/images/tripplanning.png)
 
 
 
