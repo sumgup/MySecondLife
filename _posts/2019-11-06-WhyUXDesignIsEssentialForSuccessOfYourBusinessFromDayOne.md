@@ -9,67 +9,81 @@ image : assets/images/business.jpg
 
 ---
 
-The motivation behind writing this post is how "User Experience Design" can help a business to achieve its objectives and potential. 
+*The motivation behind writing this post is how "User Experience Design" can help a business to achieve its objectives and potential.  If I have to explain UX design to business owner then I would start with mistakes made in software, share my personal experiences. This will help business owner to make right decisions.*
 
 
-
-If I have to explain UX design to business owner then I would start with mistakes made in software development and making the business owner aware that we have been making these mistakes for a while. As a result of these mistakes lot of ideas have failed or increased the cost of development.  This will help him/her in getting them educated and they can make the right decisions. 
-
-
+## Why do Startups fail?
 
 Let's start with failures, why do so many new business ideas fail to make it to the market.  I would rely on an expert like Paul Graham. 
-
-
 
 Why do most startups fail? I am certainly not an expert in this area but if we listen to experts like Paul Graham, founder of YCombinator which is an incubator and resulted in startups like Airbnb, Stripe, Dropbox and lot more. 
 
 "There's just one mistake that kills startups: not making something users want. If you make something users want, you'll probably be fine, whatever else you do or don't do. And if you don't make something users want, then you're dead, whatever else you do or don't do."
 
-This leads to the question of how can startups make something that user desires. If we have to answer this question than I would think more about the problem than the solution. 
+This leads to the question of how can startups make something that user desires. If we have to answer this question than I would think more about the problem than the solution. . I have worked in tech for more than a decade and I strongly advocate to not to start a company by hiring engineering mindset. 
 
-**What are obstructions that are preventing to create a solution that customer wants?** 
+## **What are obstructions that are preventing to create a solution that customer wants?** 
 
-It is a known devil and a friend: Technology.  I will focus on why it's a devil because our society has been conditioned to invest in engineering. In engineering what gets taught is technology i.e. Microprocessors, RAM. With such a technology-oriented mindset when engineers joiThere are a lot more obstructions in building a successful business but this is the root cause of the problem. I have worked in tech for more than a decade and I strongly advocate to not to start a company by hiring engineers. Start with people who care about needs, people who are deeply interested in knowing about customers. n businesses they start from technology and go all the way up to creating a product or solution. 
+It is a known devil and a friend: Technology.  I will focus on why it's a devil because our society has been conditioned to invest in engineering.  We have heavily relied on engineers to build businesses. In engineering what gets taught is technology i.e. Microprocessors, RAM. There is nothing wrong is understanding in's and outs of Computer but what is not taught in an engineering curriculum is the human aspect of computing. This aspect covers are you building something that customer wants? Have you tested your assumption before building a software solution?
+
+With the basics missing when an engineering talent joins an organisation they will think  in a reverse way i.e. how much RAM I need, how much processing is required, which programming language is better. I have seen technical discussions and meetings going for and endless number of hours.  There is endless amount of hours burnt discussing Python is better over Java, AWS cloud is better than Azure and lot more. 
+
+Now even VC's know this fact and are extremely cautious about funding. They are aware that after funding, people will sit in meeting rooms and nothing productive will come out of those meetings.  They also want to fund people who are smart.  Smartness in this case is being crazy enough to read the mind of customers.
+
+The reason **why Amazon is so successful** because they have minimised steps to checkout, they have made it very simple.  The reason **why Craigslist is so successful** because it's such a simple website no jazzy user interface or glittering design. 
+
+**Are such things taught in Engineering Curriculum?**
+
+If one has to start building a business than start with people who are crazy about customers. **I call it building a customer obsessive culture**.  People who are crazy about customers:  What are the habits of my customer? where do they live? how does there life look like?
 
 A tech company is conditioned to think from the perspective of what technology can offer not what the user wants. Steve Jobs has clearly reasoned success behind Apple:
 
 **'You've got to start with the customer experience and work backwards to the technology. You can't start with the technology and try to figure out where can I sell it.' Steve Jobs**
 
-What customer wants is the desirable aspect of a business.  Every business starts with an idea and tries to reach the sweet spot of success and innovation. 
+## Cost Of Mistakes made during Software Development
+
+If a business has built a product that customer doesn't want than it could result in following :
+
+1. Another Iteration of the Product.
+2. Failure of the company.
+
+Imagine you have built a product based on your gut feeling and you launch it, it comes in hands of customer and no one understands it?  Or it could be there is no need for such a product.  You have wasted development cycles, money and time.
+
+In the history of product development there are not one but several instances of this, I call this as heroism.  The cost of failing is high. 
 
 ![image-20191106070133314](../assets/images/business.jpg)
 
-Picture above is the abstraction of what a business should desire. 
+## How to build a Company with roots in User Experience?
 
-Here are the part which makes this sweet spot:
+Picture above is the abstraction of what a business desires:
 
-1. Desirability - Desirable. Having pleasing qualities or properties.
+It is the relationship of Desirability, Viability and Feasibility that creates sweet spot for a business. 
+
+**1. Desirability** - *Having pleasing qualities or properties.*
 
    Are we creating a product solution that anyone needs? 
 
    What is the unique value proposition?
 
-2. Viability - The ability to live grow and develop.
+**2. Viability** - *The ability to live, grow and develop.*
 
    Can we build a sustainable business?
 
-3. Feasibility - Capable of being done or carried out.
+**3. Feasibility** - *Capable of being done or carried out.*
 
-   Will the product work? Can we see it in real in near future?
+   Will the product work?
 
-   
+   Can we see it in real in near future?  
 
-   To put it simple words one may have a desire to travel to Europe for vacation.  In order to fulfil this desire we need Money and Carrier (aeroplane/ship).  Carrier covers the Feasibility aspect and its the money which makes the trip Viable.
+To put it simple words one may have a desire to travel to Europe for vacation.  In order to fulfil this desire we need Money and Carrier (aeroplane/ship).  Carrier covers the Feasibility aspect and its the money which makes the trip Viable.
 
-   
-
-   ![TripPlanning](../assets/images/tripplanning.png)
-
-
+​     ![TripPlanning](../assets/images/tripplanning.png)
 
 For a business to be successful all the pieces have to work in harmony i.e. Value Proposition, Pricing, Financial model  etc.  
 
-If we know key ingredients that makes a business successful and we have to start from customer experience than how do we begin? Will cover this as part two of this blog post.
+This leaves us with the question how do we start from customer experience and work backwards to create product with sweet spot in out mind?
+
+Will cover this as part of my **next blog post.** 
 
 #### References
 
