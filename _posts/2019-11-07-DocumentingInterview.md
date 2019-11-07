@@ -9,6 +9,10 @@ image : assets/images/interview.jpg
 
 *In the beginning of this week I recruited participants for interview. Before starting with interview I briefed them about case study and took permission to record the audio. Here is the data I collected from Interview*
 
+
+
+
+
 # Interview # 1
 
 ------
@@ -82,3 +86,5 @@ Group.  It motivates her
 1. Timeline of a typical day
 2. Create Stop Doing list - Things you can stop doing.
 3. Take pictures of something that helps you exercise.
+
+# Interview # 2
