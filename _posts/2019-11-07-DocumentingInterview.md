@@ -13,17 +13,17 @@ image : assets/images/interview.jpg
 
 ------
 
-**About Radhika:**
+**About R:**
 
-Radhika is a working as Quality assurance Consultant.  She is in 30's married with a 6 year old kid. She has been on and off job couple of times as she had to take care of kid.  She was exercising two years back but stopped exercising after she started working. Currently she relies on walking to stay fit. She want to get back to exercise routine but due to time management and laziness she is not able to. 
+R is a working as Quality assurance Consultant.  She is in 30's married with a 6 year old kid. She has been on and off job couple of times as she had to take care of kid.  She was exercising two years back but stopped exercising after she started working. Currently she relies on walking to stay fit. She want to get back to exercise routine but due to time management and laziness she is not able to. 
 
 ## Why do you want to Exercise?
 
-1. Stay fit, flexible and energetic. - R
+1. Stay fit, flexible and energetic.
 
 ## Motivations Behind Exercise
 
-1. Clothes not fitting, We look fat, Pain in body due to which they cant execute current task - R
+1. Clothes not fitting, We look fat, Pain in body due to which they cant execute current task.
 
 ## Perfect conditions around to Exercise?
 
