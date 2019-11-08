@@ -1,24 +1,28 @@
 ---
 layout: post
-title:  "How I was caught unaware pursuing UX design"
+title:  "How I was caught unaware of pursuing UX design"
 date:   2019-10-21 14:00:40 +0530
 categories: [ux]
-image : assets/images/caughtinthought.png
-featured : true
+image: assets/images/caughtinthought.jpg
+featured: false
 ---
 
+Interestingly I caught myself doing something which I was not even aware of. It was not straightforward for me to pursue UX design, that too after spending more than a decade in software development.  To make it easier for readers I have two versions of this story: Long Story and Short Story.
 
-It was not straightforward for me to pursue UX design, that too after spending more than a decade in software development.  To make it easier for readers I have two versions of this story: Long Story and Short Story.
+# Short Story
 
+------
 
-SHORT STORY
-My journey to UX design has been an accidental discovery.  I was interested in building products from scratch, I tried creating products but I was never successful in that.  Even though I failed in creating a product I learned that there are ways to validate your product idea before you launch it.  While building products I used to interview customers document them and create prototypes.  When I came out of my last job and looked back I realized that designing software is something I was always doing in the background and I was excited in doing that.  If it was happening as 2nd priority in my life than why can't be it the priority number one?
+My journey to UX design has been an accidental discovery.  I was interested in building products from scratch, I tried creating products but I was never successful in that.  Even though I failed in creating a product I learned that there are ways to validate your product idea before you launch it.  Not only validate how can you create products that customer would use again and again.
 
+While working on my product ideas I used to interview customers document them and create prototypes.  When I came out of my last job and looked back I realized that designing software is something I was always doing in the background and I was excited in doing that.  If it was happening as 2nd priority in my life than why can't be it the priority number one?
 
-LONG STORY
+# Long Story
+
+------
 
 My decision to take up UX design was an accidental discovery which I found out during Introspection of my past.  
-Let me share my story, I like to divide my life into two lives. 
+Let me share my story, to make it easy I like to divide my life into two lives. 
 
 First life was doing everything which I was told to, looking around and seeing what others are doing and designing my life around out that.  I wasn't the smartest kid neither in school or college. Most of the decisions I took were a safe decision and following the path of others.  Took a safe path and pursued engineering and landed up with a job in a software company.  After completing my engineering I didn't want to work in software, because I never liked programming in my engineering curriculum.  The reason I didn't like programming is that I didn't see the creative side of it. During engineering it was always about writing programs for palindromes, reverse a string etc.  Due to which I didn't get excited about it.  My first job after completing engineering was as a customer care executive.  There were some great lesson learnt there and till this date I value experiences gained from there.  After working in customer care my parents pushed me towards pursuing software engineering.  Although I was not convinced to do that the decision to work in software didn't turn out to be bad at all.  This is where I met a geek inside myself. 
 
@@ -41,7 +45,7 @@ So what was I doing all those years?  At work I was learning at a rapid pace, I 
 While all this was going on at job there was a life running in the background also.  I started reading books, about entrepreneurship and philosophy. The founder always motivated employees to create a new product or build great things. This is where I started thinking about creating new ideas and building a product.  I used to pitch ideas to the founder of my company but most of those got rejected.  I realized that my ideas are inspired by a geek inside me and it doesn't have a place in the market.   I kept trying putting my ideas in a presentation but none of them impressed anyone.  After failing so many times in coming up with an idea or product I started looking into what's happening in the startup world.  One of my college friends: Shreekant Pawar was building a startup focussed on diabetes.  I was inspired by his story. 
 
 I was in a difficult spot because I knew how to build software but I had no idea about the business side.  
- 
+
 Neudesic was a place where we used to discuss cool ideas.  Me and one of my close friends from Neudesic came up with an idea: Mobile app for yoga instructors.  By using this app people can find yoga instructors around.  Using my development tools I came up with a prototype.  
 
 https://www.behance.net/gallery/8796243/Yogapreneur
@@ -69,7 +73,7 @@ There were two dominant themes in my life:
 2. How to create a product.  
 
 I am not an expert in User Experience, I know that psychology is deeply rooted in UX design however I think if we know ourselves then that's the first step to psychology.   The desire to know myself and parallels in understanding users is one of my reasons to pursue UX.  I like to know about others, how people behave in a certain situation,  whats are their motivations.  
- 
+
 My second life started when I came out of my job.  I could have found another job in software development but I paused myself.  This is where I decided to begin a new life i.e. Second life hence this blog.
 
 One of the discoveries that happened after coming out of a job was when one of my friends called me to participate in a design thinking exercise. He wanted to create a new product from scratch.  I used the opportunity to the best and I contributed by interviewing users and helping in creating a prototype.  All this was done in one week.  When I saw the potential that if we can achieve a lot in one week it further strengthened my belief to pursue UX design.
@@ -77,6 +81,12 @@ One of the discoveries that happened after coming out of a job was when one of m
 I knew about UX design but when I started reading more and more about it, I realized that I was unaware and a lot of the things I was doing in the background belonged to UX design. 
 
 I started learning Design Thinking and taking up courses in UX.  While I continue to establish myself as a UX Consultant writing this story helped me in understanding myself and gaining clarity on my decision making.
+
+# What's Next
+
+------
+
+The Story doesnt end here, I keep working and I will continue sharing the logs of my journey to UX.   
 
 
 
