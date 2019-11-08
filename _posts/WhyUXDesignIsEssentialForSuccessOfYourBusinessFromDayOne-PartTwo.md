@@ -6,7 +6,7 @@ categories: [journey, UX]
 tags : [journey]
 featured: true
 image : assets/images/business.jpg
-
+published: false
 ---
 
 *This post is three part series explaining how UX and why UX Design is recipe to success for a business. In part one I explained myths and engineering culture and how it causes more problems*.

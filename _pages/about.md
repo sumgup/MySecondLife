@@ -16,6 +16,15 @@ comments: false
     <br/>
     I am Sumit, currently learning UX design to become a freelance UX Designer.  While I am on the way to learn UX design I thought to document my whole journey starting from who I was, why UX design, my present and future to come by.</p>
 <p>Prior to this I was a Software Consultant developing full stack solutions. For me this blog page is my journey to second life.</p>
+
+<p>I have also written a post on why I am pursuing UX design, posted here
+
+[Caught Pursuing UX design]({% post_url  2019-10-21-CaughtPursuingUXDesign %})
+
+
+
+</p>
+
 <p>Its my personal journey, as a human being I had my own fears, apprehensions and excitement.  I am not here to share the bright or low side of journey but to share things as they are. An un-distorted version</p>
 <p>There were several thoughts that were against myself to not to write like:</p>
 <ol>
