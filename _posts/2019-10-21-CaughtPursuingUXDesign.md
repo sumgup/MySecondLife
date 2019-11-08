@@ -48,7 +48,7 @@ I was in a difficult spot because I knew how to build software but I had no idea
 
 Neudesic was a place where we used to discuss cool ideas.  Me and one of my close friends from Neudesic came up with an idea: Mobile app for yoga instructors.  By using this app people can find yoga instructors around.  Using my development tools I came up with a prototype.  
 
-https://www.behance.net/gallery/8796243/Yogapreneur
+[Behance Link.](https://www.behance.net/gallery/8796243/Yogapreneur)
 
 Although my friends were impressed by the idea I had no idea how to make it a reality.  After failing to kick off with my idea, I realized that doing all this I am losing the trust of my friends and family.  This is where I started working on the education part i.e. how to make ideas real?
 
