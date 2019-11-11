@@ -177,3 +177,6 @@ Not really but relies on home-cooked food.   Recently started focusing on avoidi
 No
 
 ## Probing Kit:
+
+1. Timeline of a typical day
+2. Take pictures of something that helps you exercise.
