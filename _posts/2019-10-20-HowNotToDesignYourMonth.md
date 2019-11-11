@@ -117,7 +117,7 @@ So whats the solution of this? Granularity in decomposing Goals is definitely ne
 
 UPDATE 11 November : Here is the next part in series:
 
-[Goal Based Monthly Planning](https://sumgup.github.io/mysecondlife/GoalBasedMonthPlanning/)
+[Goal Based Monthly Planning](https://sumgup.github.io/mysecondlife/GoalBasedMonthlyPlanning/)
 
 
 
