@@ -11,7 +11,7 @@ featured : true
 
 Here are my conditions to read this blog post:
 
-1. Do not think :thought_balloon: about Elephant :elephant: .
+1. Do not think about Elephant.
 2. Don't use your mobile while reading this post.
 
 I am sure for some of you elephant would have appeared in your mind or you have started cursing me thinking who am I to tell you. Controlling mind has always been problematic for me.
