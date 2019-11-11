@@ -89,4 +89,3 @@ The latest version of MiBand has timer too. As per my [research](https://www.red
 
 **Bonus** :  You can use Pomodoro timers to control dumb devices like : Geysers and tasks like Boiling water etc.  I used to always forget which resulted in wastage of electricity or fuel.  
 
-I wish every clock in this world is a timer first than a clock.
