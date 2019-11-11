@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Goal based month planning"
+title:  "Goal based monthly planning"
 date:   2019-11-11 09:30:00 +0530
 categories: [productivity]
 tags : [journey]
