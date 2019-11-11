@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Goal based monthly planning"
-date:   2019-11-11 09:30:00 +0530
+date:   2019-11-11 10:05:00 +0530
 categories: [productivity]
 tags : [journey]
 featured: false
