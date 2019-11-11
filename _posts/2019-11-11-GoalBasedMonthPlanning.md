@@ -20,6 +20,6 @@ For now, I want to make monthly planning very simple. For e.g these are my goals
 2. Blogging - I have listed down blog posts that must be written this month. 
 3. Body Goals- Yet to come up with a definition for that.
 
-My learning and blogging are sometimes parallel and sometimes not.  Giving attention to the body is like connecting to the driving force of your life so it comes in equal priority.  
+My learning and blogging sometimes happen together and sometime not.  Giving attention to the body is like connecting to the driving force of your life so it comes in equal priority.  
 
-For this month I have simplified it a lot, and my mind is in ease. 
+For this month I have simplified it a lot lets see if making it simple can do wonders.  
