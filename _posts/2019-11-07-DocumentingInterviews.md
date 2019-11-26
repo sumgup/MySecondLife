@@ -230,4 +230,3 @@ No.
 1. Timeline of a typical day
 2. Take pictures of something that helps you exercise.
 
-# 
