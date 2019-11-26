@@ -180,3 +180,54 @@ No
 
 1. Timeline of a typical day
 2. Take pictures of something that helps you exercise.
+
+# Interview # 4
+
+------
+
+## **About D:**
+
+D is currently a  homemaker.  She has two kids one is 8 year old boy and a two year old. Her husband is working. She quit her job after second kid and will go back to job once her second child grows up.
+
+## Why do you want to Exercise?
+
+Healthy, maintain weight and flexibility in body.
+
+## Motivations Behind Exercise
+
+Her husband goes to gym regularly which reminds her of exercising. 
+
+## **Perfect Condition around to exercise**
+
+When she is able to find perfect time.   What works out for her is when she is able to swap tasks with husband on the weekend.
+
+## **Do you Plan for Exercise**
+
+Currently exercise goes unplanned as she needs to look after her daughter.  Sleep pattern of her daughter is not fixed in particular because of which she could not plan well. 
+
+## Do you follow any Diet
+
+Not in particular just home cooked food.  According to her she keeps breakfast and dinner light. 
+
+## Are you using any Fitness App or Tracker?
+
+No
+
+## Favourite Activities
+
+Cycling, Yoga and **Swimming**.
+
+## WorkOut Preference
+
+Both alone and in group. Only Yoga she likes to do in Group.
+
+## Fitness Tracker
+
+No.
+
+## Probing Kit:
+
+1. Timeline of a typical day
+2. Take pictures of something that helps you exercise.
+
+# 

@@ -26,8 +26,7 @@ comments: false
   <li>Is this more of a stunt to gain pride?</li>
   <li>What will others think about me?</li>
   <li>Why to share a personal side of myself?</li>
-  <li>I have not failed or a[Caught Pursuing UX design](/CaughtPursuingUXDesign/)
-chieve some level of success, whats the point?</li>
+  <li>I have not failed or achieved some level of success, whats the point?</li>
   <li>Will my writing help anyone?</li>
   <li>Why waste time unless you have reached the goal.</li>
 </ol>
