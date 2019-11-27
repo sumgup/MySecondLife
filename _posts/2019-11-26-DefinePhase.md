@@ -13,9 +13,25 @@ Continuing with Design thinking this week I learnt about Define phase.  In a nut
 
 The case study I am pursuing is: **Creating a fitness app for people who are not able to find enough time exercising.** 
 
-The first task of the Define phase is to create an affinity diagram. To start with this activity I wrote down all my findings of empathy phase in sticky notes and stuck them into a wall. 
+Here is the step by step approach I took for define phase.  
 
- Later I reorganised all the sticky notes into groups/clusters.  This is how my groups look like in priority order:
+1. I noted down all the ideas and grouped them and ordered them in priority that's called as Affinity Map.   I chose the priority order which I felt was right, for me the blockers a user phase is of the highest priority. 
+
+2. After grouping ideas into themes, on these themes I created an empathy map i.e. how a user thought and felt. Followed by filling up Said and Did. 
+
+3. Looking at all the quadrant wrote down the user needs, this will become the basis of what problem you want to solve for them.
+
+4. As per the instructions of Design Thinking course from IDF I need to select 1-3 needs which are most important for user and create a point of view. 
+
+I have a question on this approach, dont see a strong criteria in selecting the need. To me its like introducing a personal bias.  To clear my doubt I ended up posting this question on reddit and intereaction-design.org
+
+https://www.reddit.com/r/UXDesign/comments/e29xc3/question_empathy_map_to_point_of_view/
+
+5. Based on this I created a Point of View Madlibs and lastly I wrote down "How might we" questions. 
+
+How might we questions will become basis of Ideation phase.
+
+Here are the screenshots of process I followed.  Starting with groups in **Affinity Diagram:**
 
 1. **Blockers in Exercising**
 
