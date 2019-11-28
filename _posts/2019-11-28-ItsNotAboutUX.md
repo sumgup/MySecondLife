@@ -27,9 +27,9 @@ This sounds great but is this actionable system that I can trust upon?    For me
 
 Here is how I started studying Stoicism
 
-1. Started reading letters from"Tao of Seneca" you can get a free copy of this book from here: https://tim.blog/2017/07/06/tao-of-seneca/.  For me, this book is hard to read because it's in Latin. 
+1. Started reading letters from"Tao of Seneca" you can get a free copy of this book from here: [https://tim.blog/2017/07/06/tao-of-seneca/](https://tim.blog/2017/07/06/tao-of-seneca/).  For me, this book is hard to read because it's in Latin. 
 2. Watched videos of letter translation on Youtube.
-3. Unhappy with the above two I started reading about Stoicism and what people are talking about on Reddit www.reddit.com/r/stoicism 
+3. Unhappy with the above two I started reading about Stoicism and what people are talking about on Reddit [www.reddit.com/r/stoicism](www.reddit.com/r/stoicism ) 
 
 4. I read reviews of this book: "The Daily Stoic" and I was impressed. 
 
