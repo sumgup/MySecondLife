@@ -7,11 +7,11 @@ tags : [journey]
 image : assets/images/ideate.jpg
 ---
 
-I had a great week Ideating.  The reason why this was interesting week was because my mind was clouded with problems, doubts about Case Study.   This is my first experience doing a case study and I realised that how important to be inside the problem space for long time.
+I had a great time Ideating last week. The reason why it was most interesting experience of my life is because : my mind was clouded with problems, doubts about Case Study.  When I went through Ideation I could see the possibility of addressing the problems. This is my first experience doing a case study and I realised how important to be inside the problem space for a long time.
 
-When I started Ideation phase I learned about lot of approaches and pros and cons of each.  The case study is about creating a mobile app to improve fitness. 
+When I started the Ideation phase I learned about a lot of approaches and pros and cons of each. The case study is about creating a mobile app to improve fitness.
 
-In my last post I generated How might we questions and Empathy Map.  Here is the summary of approach I took for Ideation phase.
+In my last post I generated How might we questions and Empathy Map. Here is the summary of the approach I took for the Ideation phase.
 
 1. Generating Worst Possible Ideas - Looking at Point of View , How Might We Questions and Empathy Map I listed down worst possible ideas
 2. Converted Bad ideas to Good one.
@@ -96,4 +96,3 @@ The reason why I chose this idea is because of its simplicity to implement as co
 By means of story telling I can ensure I can meet all the user needs. All this will make more sense when this idea takes form.  Which will happen in : Prototype Week.
 
 Stay tuned.
-
