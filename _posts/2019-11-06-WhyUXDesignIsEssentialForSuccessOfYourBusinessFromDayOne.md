@@ -87,7 +87,7 @@ To put it simple words one may have a desire to travel to Europe for vacation.  
 
 For a business to be successful all the pieces have to work in harmony i.e. Value Proposition, Pricing, Financial model  etc.  
 
-This leaves us with the question how do we start from customer experience and work backwards to create product with sweet spot in out mind?
+This leaves us with the question how do we start from customer experience and work backwards to create product with sweet spot in our mind?
 
 Will cover this as part of my **next blog post.** 
 
