@@ -31,6 +31,10 @@ Let's assume we did a full round of Design Thinking.
 4. *Prototype - Using the idea, creating low and high fidelity prototype.*
 5. *Test - Evaluate what you have created.  You should never trust your idea.*
 
+   ![DesignThinking](../assets/images/designthinking.jpg)
+
+ImageSource : InteractionDesign
+
 During the Empathy and Define phase we found out that the problem of not maintaining fitness is linked to:
 
 1.  Not planning your day effectively.
