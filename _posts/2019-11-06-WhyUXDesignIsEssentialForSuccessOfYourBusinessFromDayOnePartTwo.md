@@ -49,7 +49,7 @@ The feasibility of a solution depends on two things:
 
 With these things in mind, how can we test the feasibility aspect combined with desirability?  
 
-### *Step # 1: Live Prototype**
+### **Step # 1: Live Prototype**
 
 Live Prototype gives us the flexibility of what aspects we want to test.  If we have multiple aspects of the feasibility than it would be ideal to start one by one and add more aspects to it.  For that to happen we need a set of users who can participate in the exercise.   In this case, I would target a set of users belonging from the same geographical location.  E.g. targeting a medium-sized apartment complex could be ideal.   Our target customer is the one for which we created our Personas.  It can be input to our marketing team.  If you are a funded company than offering incentive/reward for first-time use will not hurt.  It can become part of a marketing campaign.
 
