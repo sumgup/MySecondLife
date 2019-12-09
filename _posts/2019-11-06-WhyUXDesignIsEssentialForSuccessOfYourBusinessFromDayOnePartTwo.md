@@ -33,7 +33,7 @@ Let's assume we did a full round of Design Thinking.
 
    ![DesignThinking](../assets/images/designthinking.jpg)
 
-ImageSource : InteractionDesign
+ImageSource : https://www.interaction-design.org/
 
 During the Empathy and Define phase we found out that the problem of not maintaining fitness is linked to:
 
