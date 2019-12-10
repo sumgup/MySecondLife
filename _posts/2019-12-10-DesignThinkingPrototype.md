@@ -15,9 +15,14 @@ Define phase is where I broke down the information into pieces and synthesised i
 
 Ideate, I loved it.  I wished these techniques especially "Worst Possible Idea" was so much fun and sparked my mind of new possibilities.  Six thinking hats were fun too but I guess it will be more fun in the group. 
 
-Now coming back to Prototype.  I started with Storyboards. Here is the video of the storyboard.
+Now coming back to Prototype.  I started with Storyboards. Here is the video of the storyboard I prepared:
 
-Once I created the Storyboard I started getting a sense of how the user interface should look like. 
+<video width="400" height="240" controls>
+  <source src="../assets/images/casestudyfitnessapp/Storyboard.mp4" type="video/mp4">
+</video>
+
+
+After creating Storyboard I started getting a sense of how the user interface should look like. 
 
 Here are the pictures for paper based prototype.
 
