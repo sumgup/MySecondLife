@@ -37,4 +37,4 @@ Here are the pictures for paper based prototype.
 
 ## Next Steps
 
-Now I need to test Storyboard and Prototype on my users with whom I did Empathy exercise and record feedback for it. 
+Now I need to test Storyboard and Prototype with my users with whom I did Empathy exercise and record feedback for it. 
