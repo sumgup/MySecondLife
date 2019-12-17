@@ -127,7 +127,7 @@ She is trying to follow a diet. Currently, she has limited her rice intake to cu
 
 ## Are you using any Fitness App or Tracker?
 
-theShe wears an Apple Watch and prior to that Fitbit.  She tracks the number of steps as a figure out if a daily goal is met.
+She wears an Apple Watch and prior to that Fitbit.  She tracks the number of steps as a figure out if a daily goal is met.
 
 ## What happens when you don't reach your goal?
 
@@ -152,7 +152,7 @@ C is working as a trainer in an organisation in the construction domain. C 's jo
 
 ## Why do you want to Exercise?
 
-InterviewC recently started exercising when she realised that she has gained a lot of weight and was not able to pay attention to it.  Currently, she is doing a medium intensity workout by pursuing Power and Hatha Yoga at a fitness institute near to her house. 
+C recently started exercising when she realised that she has gained a lot of weight and was not able to pay attention to it.  Currently, she is doing a medium intensity workout by pursuing Power and Hatha Yoga at a fitness institute near to her house. 
 
 ## Motivations Behind Exercise
 
