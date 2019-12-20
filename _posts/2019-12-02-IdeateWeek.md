@@ -31,31 +31,31 @@ The ideas I listed were untehical, disntegrated, deceptive, cunning and devious.
 
 Can any one be more negative then me?
 
-   ![WorstPossibleIdea](../assets/images/worstpossibleidea.jpg)
+   ![WorstPossibleIdea](../assets/images/casestudyfitnessapp/worstpossibleidea.jpg)
 
 The reason why this exercise works so well is because our minds can do reverse perspective very easily. For e.g. One of my cunning ideas was to : "Invite them to parties and serve unhealthy food" the opposite of that would be simple to construct.  Offer them healthy food.
 
 Here is my list of turning bad ideas to good one:
 
-   ![TurnBadIdeasToGoodOne-1](../assets/images/turnbadideastogoodone1.jpg)
+   ![TurnBadIdeasToGoodOne-1](../assets/images/casestudyfitnessapp/turnbadideastogoodone1.jpg)
 
-   ![TurnBadIdeasToGoodOne-2](../assets/images/turnbadideastogoodone2.jpg)
+   ![TurnBadIdeasToGoodOne-2](../assets/images/casestudyfitnessapp/turnbadideastogoodone2.jpg)
 
 While this exercise was easy to do and I was able to generate lot of ideas in shortest span of time. 
 
 The second method I took to generate Ideas was "Challenge your Assumption".  This exercise was all about creating list of assumptions that use has . For .e.g One of my assumption is "People thing they are doing there best" this thinking prevents them for doing something different.
 
-   ![](../assets/images/listofassumptions.jpg)
+   ![](../assets/images/casestudyfitnessapp/listofassumptions.jpg)
 
 Step 2 of this method is listing down the challenges to assumptions. For e.g. One of my assumption was : "People have lost there interest and they dont want to change."  One of the challenges to my assumption could be : "What if people are interested but no one has genuinely showed them the way"
 
-   ![](../assets/images/challengeyourassumptions.jpg)
+   ![](../assets/images/casestudyfitnessapp/challengeyourassumptions.jpg)
 
 The last step of this method is listing down ideas for challenges.  For e.g. One of my ideas is that people can change if we tell them a real life story.  If that story meets there situation they are facing it can be very effective.  Here is the list of Ideas I came up with
 
 
 
-   ![](../assets/images/challengetoideas.jpg)
+   ![](../assets/images/casestudyfitnessapp/challengetoideas.jpg)
 
 By the end of these two methods I was able to come up with lot of ideas.   How would you choose the idea that you want to pursue?  
 
@@ -67,11 +67,11 @@ Here is the first idea and how I applied Six thinking hats method to it:
 
 Idea 1 : Share stories of how people became fit in shortest amount of effort.
 
-   ![](../assets/images/idea1sixthinkinghats1.jpg)
+   ![](../assets/images/casestudyfitnessapp/idea1sixthinkinghats1.jpg)
 
-   ![](../assets/images/idea1sixthinkinghats2.jpg)
+   ![](../assets/images/casestudyfitnessapp/idea1sixthinkinghats2.jpg)
 
-   ![](../assets/images/idea1sixthinkinghats3.jpg)
+   ![](../assets/images/casestudyfitnessapp/idea1sixthinkinghats3.jpg)
 
    My Idea  number 2 is about providing a virtual assistant to help them in following aspect of lives:
 
@@ -81,11 +81,11 @@ Idea 1 : Share stories of how people became fit in shortest amount of effort.
 
 Here is how I applied Six thinking Hats to it:
 
-   ![](../assets/images/idea2sixthinkinghats1.jpg)
+   ![](../assets/images/casestudyfitnessapp/idea2sixthinkinghats1.jpg)
 
 
 
-   ![](../assets/images/idea2sixthinkinghats2.jpg)
+   ![](../assets/images/casestudyfitnessapp/idea2sixthinkinghats2.jpg)
 
 
 

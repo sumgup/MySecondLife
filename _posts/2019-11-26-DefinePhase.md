@@ -35,29 +35,29 @@ Here are the screenshots of process I followed.  Starting with groups in **Affin
 
 1. **Blockers in Exercising**
 
-   ![AffinityDiagramClusters](../assets/images/AffinityDiagram1.jpg)
+   ![AffinityDiagramClusters](../assets/images/casestudyfitnessapp/AffinityDiagram1.jpg)
 
 2. **Triggers for Exercising**
 
-   ![AffinityDiagramClusters](../assets/images/AffinityDiagram2.jpg)
+   ![AffinityDiagramClusters](../assets/images/casestudyfitnessapp/AffinityDiagram2.jpg)
 
 3. **What Helps**
 
-   ![AffinityDiagramClusters](../assets/images/AffinityDiagram3.jpg)
+   ![AffinityDiagramClusters](../assets/images/casestudyfitnessapp/AffinityDiagram3.jpg)
 
 4. **Making Exercising Exciting**
 
-   ![AffinityDiagramClusters](../assets/images/AffinityDiagram4.jpg)
+   ![AffinityDiagramClusters](../assets/images/casestudyfitnessapp/AffinityDiagram4.jpg)
 
 5. **Why Exercise**
 
-   ![AffinityDiagramClusters](../assets/images/AffinityDiagram5.jpg)
+   ![AffinityDiagramClusters](../assets/images/casestudyfitnessapp/AffinityDiagram5.jpg)
 
 The reason why I chose this priority order is that blockers are obstructions to users and if we understand them well we can come up with a solution. 
 
 Overall my affinity diagram looks like this:
 
-![AffinityDiagram](../assets/images/affinitydiagram.jpg)
+![AffinityDiagram](../assets/images/casestudyfitnessapp/affinitydiagram.jpg)
 
 
 
@@ -68,20 +68,20 @@ After completing affinity diagram next task is to develop an empathy map.  The m
 3. Did
 4. Felt
 
-![EmpathyMap](../assets/images/empathymap.jpg)
+![EmpathyMap](../assets/images/casestudyfitnessapp/empathymap.jpg)
 
 Using the empathy Map I identified needs for the users
 
 
 
-![UserNeeds](../assets/images/userneeds.jpg)
+![UserNeeds](../assets/images/casestudyfitnessapp/userneeds.jpg)
 
 I selected most important needs for a user and developed point of view.
 
-![EmpathyMap](../assets/images/pointofview.jpg)
+![EmpathyMap](../assets/images/casestudyfitnessapp/pointofview.jpg)
 
 Using the Point of View I came up with How Might We questions
 
-![HowMightWe](../assets/images/howmightwe.jpg)
+![HowMightWe](../assets/images/casestudyfitnessapp/howmightwe.jpg)
 
 This is turning out to be interesting because now I can see lot of information crystallised into specific how might we questions.  Now its time to focus on Ideate phase of Design thinking
