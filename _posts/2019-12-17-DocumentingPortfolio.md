@@ -3,7 +3,7 @@ layout: post
 title:  "Documenting Portfolio"
 date:   2019-12-17 09:00:00 +0530
 categories: [journey]
-image : assets/images/weeklypost.jpg
+image : assets/images/portfolio.jpg
 ---
 
 # Sections Inside Portfolio:
