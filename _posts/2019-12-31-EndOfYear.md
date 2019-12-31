@@ -70,6 +70,8 @@ Here is what I need to do in the next few weeks:
 
 \#4. Pitch for work.
 
+#5. Free time - Invest on side project.  Github pages for collaboration.
+
 
 
 I do have a semi-prepared plan for #4 which I will be sharing once I am ready with my portfolio.  One area I failed to estimate was portfolio designing, it took me longer than what I planned for.  I ended up using bootstrap for design and this is where I slowed down.  Estimates are so hard.
