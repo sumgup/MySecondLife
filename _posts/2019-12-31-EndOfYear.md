@@ -10,7 +10,7 @@ Last day of the year and If I look back what a rollercoaster ride it was. Coming
 
 There were some great learnings this year since it will be difficult to put in a sentence I would share it in points.
 
-1. **Creating a home office** 
+### 1. Creating a home office
 
 Having a personalised space where you can work alone can do wonders. When I started my journey I had a choice to either go to a coworking space or work from home. Considering this is the investment I made on myself I decided not to spend too much and save money.   Space could be anywhere but It has a lot to do with psychology.  A personalised space means you can decorate it in your way. 
 
@@ -24,13 +24,13 @@ It might sound very disciplinary but it is giving me results.  The best part of 
 
 
 
-2. **Purpose**
+### 2. Purpose
 
 Having a sense of purpose is what saves me when I am feeling low or I am distracted.  I sense that I have two purposes, one is by writing all this I can help others to go that path.  Second is that I want to solve great problems via design.  Both of the purposes connects.  I have already started working on a side project which is about habit-building.  Will share more about it as it matures.  There is a prototype in place and design is in use. Having a side project is going to keep me fulfilled until I find out work.  If 2019 was great then the purpose has a lot to contribute towards it.
 
 
 
-3. **Cleaning up and Productivity**
+### 3. Cleaning up and Productivity
 
 I have a lot to say on this when I was in a job I hardly paid attention to finance, house cleaning, development of my child.  Due to which it created blocks in my mind. I was procrastinating a lot of things, coming out of job gave me a bandwidth to clean up a lot of aspects of my life. 
 
@@ -44,7 +44,7 @@ https://www.instagram.com/p/B6noWpDA8rs/
 
 
 
-4. **Education for mind**
+### 4. Education for mind
 
 I am investing a lot of my time to educate myself, you can say its more like training of the mind.  The inspiration to educate myself came from the fact that we are born as innocent beings but when we grow up we realize that life is not easy.  You will meet cunning people, people who have no morals.  The after-effects of seeing all this is that there are high chances that one can become immoral. The sad part is that you will never know how it happened.  Everyone has there own good reasons why they are cunning, why to act clever.  The reasons are mostly because the outer world is like that.  What we perceive of world outside shapes up our psyche.  This is one area for which our education is completely missing.  Rather than complaining about why the world around didn't educate me properly, I have a choice to re-educate myself. When I started reading Stoicism I realized that I was paying too much attention and spending energy in changing world outside the moment I had self-realization that I don't have control on so many things happening it made an impact on how I think.  I can say it with clarity there are very few things which I can have control over.  The only person I have control over is myself.  This kind of education was missing and I think I have a long way to learn more and more about myself.
 
@@ -72,8 +72,9 @@ Here is what I need to do in the next few weeks:
 
 #5. Free time - Invest on side project.  Github pages for collaboration.
 
+One area I failed to estimate was portfolio designing, it took me longer than what I planned for.  I ended up using bootstrap for design and this is where I slowed down.  Estimates are so hard.
 
-
-I do have a semi-prepared plan for #4 which I will be sharing once I am ready with my portfolio.  One area I failed to estimate was portfolio designing, it took me longer than what I planned for.  I ended up using bootstrap for design and this is where I slowed down.  Estimates are so hard.
+I do have a semi-prepared plan for attacking #4 i.e. pitching which I will be sharing once I am ready with my portfolio.
 
 With the new year coming will be back with full spirit and it would be the beginning of another chapter in my life.   Happy new year.
+
