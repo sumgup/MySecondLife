@@ -48,6 +48,14 @@ https://www.instagram.com/p/B6noWpDA8rs/
 
 I am investing a lot of my time to educate myself, you can say its more like training of the mind.  The inspiration to educate myself came from the fact that we are born as innocent beings but when we grow up we realize that life is not easy.  You will meet cunning people, people who have no morals.  The after-effects of seeing all this is that there are high chances that one can become immoral. The sad part is that you will never know how it happened.  Everyone has there own good reasons why they are cunning, why to act clever.  The reasons are mostly because the outer world is like that.  What we perceive of world outside shapes up our psyche.  This is one area for which our education is completely missing.  Rather than complaining about why the world around didn't educate me properly, I have a choice to re-educate myself. When I started reading Stoicism I realized that I was paying too much attention and spending energy in changing world outside the moment I had self-realization that I don't have control on so many things happening it made an impact on how I think.  I can say it with clarity there are very few things which I can have control over.  The only person I have control over is myself.  This kind of education was missing and I think I have a long way to learn more and more about myself.
 
+### 5. Design to Solve
+
+This one sits close to my heart, learning design thinking changed my mind to solve day to day problems by bringing a new design. One of the areas that I didn't pay attention to was Diet.  The diet involves a lot of things, planning, purchasing.  I and my wife used to meal plan every day and buy a lot of stuff every weekend.  Because of this, there were a lot of items which were getting waste.  By adopting a meal planning ritual for a week I was able to cut down the costs and become less worried.  Every time there is a new meal idea then all I need is to put a sticky note.
+
+![HomeOffice](../assets/images/mealplanner.jpg)
+
+Apart from meal planner, I adopted habits to make my life run smoothly for e.g. having a fix laundry time, cleaning your house yourself using a vacuum cleaner brings a lot of peace.  After coming out of job my energy was focussed on how to live every day better.  Not an expert but still lot to learn in this area.  One can design/adopt/create habits to tackle the problems we face in everyday life. It could be as simple as planning in a bullet journal.
+
 
 
 This summarizes how 2019 was and let me share what I have for 2020. 
