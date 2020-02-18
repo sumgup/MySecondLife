@@ -3,10 +3,10 @@ layout: post
 title:  "Portfolio Story"
 date:   2020-02-18 19:00:00 +0530
 categories: [journey]
-image : assets/images/portfoliostory.png
+image : assets/images/portfoliostory.jpg
 ---
 
-Its been a while since I blogged, it almost felt like that I was shying away to post. The making of the portfolio was a roller coaster experience for me.  All my plans got delayed as it took me a while to craft the portfolio.  None the less portfolio is live and it's available at : https://sumgup.github.io/portfolio/
+Its been a while since I blogged, it almost felt like that I was shying away to post. The making of the portfolio was a roller coaster experience for me.  All my plans got delayed as it took me a while to craft the portfolio.  None the less portfolio is live and it's available at : [https://sumgup.github.io/portfolio/](https://sumgup.github.io/portfolio/)
 
 ## What did not go well
 
@@ -24,12 +24,12 @@ Its been a while since I blogged, it almost felt like that I was shying away to 
 2. Self Expression - I like to express myself and I carried the same to my portfolio website.   Writing about myself and sharing my journey gave me lot of mental power, I realised my past accomplishments and failures. 
 3. FAQ - I really liked the idea of FAQ on About me section, anyone can get an idea of what kind of person I am before we start working together.  My belief is that compatibility matters when working together.  If someone doesnt like my personality why will he do business with me? 
 
- My inspiration from FAQ and lot other ideas came from this Gregor's blog : http://gregor.smallgreendog.com/
+ My inspiration from FAQ and lot other ideas came from this Gregor's blog : [http://gregor.smallgreendog.com/](http://gregor.smallgreendog.com/)
 
 ## Road Ahead
 
 I believe this project of portfolio gave me a lot of learning and Its not the end but a beginning of it.  I have already started maintaining a list of features on my trello list and categorised them with MOSCOW method.  Will have to keep on working on it. 
 
-I am already late by 6 weeks for my plan, another big milestone that is remaining is learning how to prototype.  I have already started prototyping my case study on Figma.  Its a great tool to learn. Once prototyping is done, will make  edits on the portfolio.  With each of these steps I am getting near to phase where I can go out of the house.
+Already late by 6 weeks for my plan, another big milestone that is remaining is learning how to prototype.  I have already started prototyping my case study on Figma.  Its a great tool to learn. Once prototyping is done, will make  edits on the portfolio.  With each of these steps I am getting near to phase where I can go out of the house.
 
  
