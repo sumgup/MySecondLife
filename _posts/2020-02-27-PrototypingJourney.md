@@ -34,7 +34,7 @@ Tool choice:  This was not a straight forward decision,  I looked at most of the
 Reusability and Components -  Once you have created a component for e.g.: Card with text, you can reuse it and customize it easily.  This makes a lot of sense because it saves time.
 You can do low fidelity with Figma -  Initially, I thought that my decision to do it with Figma is not right because it's a big tool to do a small job.  I accept that this job can be accomplished by tools like Moq, Balsamiq etc but at overall level learning, Figma has a lot of advantages. 
 Free - No body minds if it is free for a single person. 
-So how to start with prototyping?  If you remember the design thinking exercise I did it resulted in a paper prototype. It's a fitness app you can see the design here: https://sumgup.github.io/portfolio/ 
+So how to start with prototyping?  If you remember the design thinking exercise I did it resulted in a paper prototype. It's a fitness app you can see the design here: [https://sumgup.github.io/portfolio/]( https://sumgup.github.io/portfolio/ ) 
 
 The prototype I created was almost like a positive path scenario, when I started with creating wireframes of paper prototype following questions came into my mind:
 
@@ -49,7 +49,7 @@ User Flow's that's the right word to attack the problem.   A user wants to accom
 
 Now, this can be done with pen and paper, how about using a tool?  Here an article I found:
 
-https://www.justinmind.com/blog/10-must-know-tools-for-creating-user-flows-with-great-ux/ 
+[https://www.justinmind.com/blog/10-must-know-tools-for-creating-user-flows-with-great-ux/](https://www.justinmind.com/blog/10-must-know-tools-for-creating-user-flows-with-great-ux/ ) 
 
 I spent time exploring flowmapp, what I like about this tool is it integrates with Persona.  When creating flows, persona thinking can help. How?  Can flow changed based on a persona? Yes, it can, e.g. during onboarding, we can ask certain questions to figure out which persona user belongs to and vary the flow?  I feel this is something I don't need but its good to know.
 
@@ -82,16 +82,15 @@ Here is the link to figma file for work done on prototyping.
 ##### OUTSTANDING QUESTIONS
 While working with Figma I had following questions and have asked these questions here:
 
-How to organize into flows in Figma?
-https://spectrum.chat/figma/abc-start-here/how-to-organize-figma-files-as-user-flows~e25d1188-7b11-4fb4-bbd9-0ab63c510e98
+1. How to organize into flows in Figma?
+   [https://spectrum.chat/figma/abc-start-here/how-to-organize-figma-files-as-user-flows~e25d1188-7b11-4fb4-bbd9-0ab63c510e98](https://spectrum.chat/figma/abc-start-here/how-to-organize-figma-files-as-user-flows~e25d1188-7b11-4fb4-bbd9-0ab63c510e98 ) 
 
-
-Is there a version control system you can create in Figma?
-https://spectrum.chat/figma/general/version-control-for-figma~c93dfd7f-6749-493b-b25e-a43db01e6f41
+2. Is there a version control system you can create in Figma?
+   [https://spectrum.chat/figma/general/version-control-for-figma~c93dfd7f-6749-493b-b25e-a43db01e6f41](https://spectrum.chat/figma/general/version-control-for-figma~c93dfd7f-6749-493b-b25e-a43db01e6f41 ) 
 
 **REFERENCES:**
 I found these articles useful when I was educating myself on user flows:
 
-https://www.interaction-design.org/literature/article/flow-design-processes-focusing-on-the-user-s-needs?r=sumit-gupta
+[https://www.interaction-design.org/literature/article/flow-design-processes-focusing-on-the-user-s-needs?r=sumit-gupta](https://www.interaction-design.org/literature/article/flow-design-processes-focusing-on-the-user-s-needs?r=sumit-gupta ) 
 
-https://www.uxpin.com/studio/blog/creating-perfect-user-flows-for-smooth-ux/
+[https://www.uxpin.com/studio/blog/creating-perfect-user-flows-for-smooth-ux/](https://www.uxpin.com/studio/blog/creating-perfect-user-flows-for-smooth-ux/ ) 
