@@ -89,7 +89,8 @@ While working with Figma I had following questions and have asked these question
    [https://spectrum.chat/figma/general/version-control-for-figma~c93dfd7f-6749-493b-b25e-a43db01e6f41](https://spectrum.chat/figma/general/version-control-for-figma~c93dfd7f-6749-493b-b25e-a43db01e6f41 ) 
 
 **REFERENCES:**
-I found these articles useful when I was educating myself on user flows:
+
+Found these articles useful when I was educating myself on user flows:
 
 [https://www.interaction-design.org/literature/article/flow-design-processes-focusing-on-the-user-s-needs?r=sumit-gupta](https://www.interaction-design.org/literature/article/flow-design-processes-focusing-on-the-user-s-needs?r=sumit-gupta ) 
 

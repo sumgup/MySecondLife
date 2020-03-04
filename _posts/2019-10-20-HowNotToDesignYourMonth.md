@@ -4,7 +4,7 @@ title:  "How NOT to design your month"
 date:   2019-10-20 11:14:40 +0530
 categories: [productivity, journey]
 image: assets/images/monthlygoals.jpg
-featured: true
+featured: false
 ---
 
 One of my favourite areas that I have spent lot of time learning is personal productivity. I have lived my life trying different techniques using different kind of apps but none of the methods I tried gave me fulfilment.  If you look at dictionary meaning of productivity : "how effective you are in achieving goals".  I believe that's a fair definition however I need to expand it to meet my personal purpose.  Personal productivity should give a feeling of relaxation not something that always running on your head.  My personal belief is this can not happen unless you invent a system on your own. If anyone wants to prove me wrong, than I am up for conversation. 
