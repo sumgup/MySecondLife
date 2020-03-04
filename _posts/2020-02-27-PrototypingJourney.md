@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Portfolio Story"
+title:  "Prototyping Journey"
 date:   2020-02-27 19:00:00 +0530
 categories: [journey]
 image : assets/images/prototypingjourney.png
@@ -10,18 +10,18 @@ One of the promises I made to myself that before I take up any design assignment
 
 If you don't want to read my whole journey into prototyping and only interested in knowing what are the outcomes of the journey then here it is:
 
-1. Design flows not wireframes - This is a big deal, i remember when I started approaching prototyping I got trapped into thinking of creating screens. It led me to nowhere. The moment I started thinking in terms of user flows it became very obvious. Design most important flows first and later add supporting flows like Onboarding.  Initially, I started designed onboarding and later when I designed core experience I had to make some changes in onboarding. During my next prototype activity, I will do the opposite.
+1. **Design flows not wireframes** - This is a big deal, i remember when I started approaching prototyping I got trapped into thinking of creating screens. It led me to nowhere. The moment I started thinking in terms of user flows it became very obvious. Design most important flows first and later add supporting flows like Onboarding.  Initially, I started designed onboarding and later when I designed core experience I had to make some changes in onboarding. During my next prototype activity, I will do the opposite.
 
-2. Reuse - Figma encourages a lot of reuse of design.  I created lot of components are reused them.
+2. **Reuse** - Figma encourages a lot of reuse of design.  I created lot of components are reused them.
    A lot of difference in paper vs real-life prototype - I feel There is a lot of difference between the paper-based approach and designing on a tool. One of the most important difference is you are thinking more from the perspective of interaction. 
 
-3. Use a priortization technique like MOSCOW -  Mobile apps looks small when it comes to designing there are too many things to be done. I kept a limited time to develop a prototype.  During the last day, there were too many items to handle.  Our egos get attached to what you are building and we dont want any imperfections to surface.  This is hard.  I wrote down all the pending items in my trello board and priortised them with MOSCOW method. By doing that I found a balance.  None the less on last day it's always a marathon.  That why you will see color coding. 
+3. **Use a priortization technique like MOSCOW** -  Mobile apps looks small when it comes to designing there are too many things to be done. I kept a limited time to develop a prototype.  During the last day, there were too many items to handle.  Our egos get attached to what you are building and we dont want any imperfections to surface.  This is hard.  I wrote down all the pending items in my trello board and priortised them with MOSCOW method. By doing that I found a balance.  None the less on last day it's always a marathon.  That why you will see color coding. 
      		
 
-   ![image-20200304095951578](/home/sumitgup/Dropbox/Blog/mysecondlife/assets/images/prototypetrello.png)
+   ![prototypetrello.png](../assets/images/prototypetrello.png)
 
-5. Document inconsistencies - You can not get everything pixel perfect in the first go.  The awareness of inconsistencies is more important.  
-6. The magic of iterations -  I liked the way how prototype came up, it's not the best prototype but I remember that when I laid down the foundation it was bare bones.  As I kept on iterating it added flesh to it. This learning is great, as you keep iterating it will become better and better.
+5. **Document inconsistencies** - You can not get everything pixel perfect in the first go.  The awareness of inconsistencies is more important.  
+6. **The magic of iterations** -  I liked the way how prototype came up, it's not the best prototype but I remember that when I laid down the foundation it was bare bones.  As I kept on iterating it added flesh to it. This learning is great, as you keep iterating it will become better and better.
 
 Now here is my journey for prototyping. Here is how it all started.
 
@@ -57,13 +57,13 @@ Flowmapp appears good but it has a limit of only one user flow :(.
 
 I have never used LibreOffice draw, its a free tool and has all the controls for flowcharting.  Tried using it and it works.
 
-![image-20200304100344473](/home/sumitgup/Dropbox/Blog/mysecondlife/assets/images/prototypeuserflows.png)
+![image-20200304100344473](../assets/images/prototypeuserflows.png)
 
 Sketching user flows helped me in figuring out what is missing in my paper prototypes.   Now I need to develop these individual wireframes and put them as a flow. 
 
 Back to Figma, this is how I have organized my Figma to create the prototype.
 
-![](/home/sumitgup/Dropbox/Blog/mysecondlife/assets/prototypingfigmascreenshot.png)
+![](../assets/prototypingfigmascreenshot.png)
 
 The basic idea is to reuse.  Widgets are reusable components, e.g. Story has to be shown again and again so it makes sense to create a component for it and reuse it.
 
