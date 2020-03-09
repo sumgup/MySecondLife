@@ -6,16 +6,16 @@ categories: [journey]
 image : assets/images/prototypingjourney.png
 ---
 
-One of the promises I made to myself that before I take up any design assignment I will ensure that I am hands-on in prototyping in one of the tools.  I may be wrong but this skill should be a must have because a prototype is a deliverable.
+One of the promises I made to myself that before I take up any design assignment I will ensure that I am hands-on in prototyping in one of the tools.  I may be wrong but this skill should be a must-have because a prototype is a deliverable.
 
 If you don't want to read my whole journey into prototyping and only interested in knowing what are the outcomes of the journey then here it is:
 
-1. **Design flows not wireframes** - This is a big deal, i remember when I started approaching prototyping I got trapped into thinking of creating screens. It led me to nowhere. The moment I started thinking in terms of user flows it became very obvious. Design most important flows first and later add supporting flows like Onboarding.  Initially, I started designed onboarding and later when I designed core experience I had to make some changes in onboarding. During my next prototype activity, I will do the opposite.
+1. **Design flows not wireframes** - This is a big deal, I remember when I started approaching prototyping I got trapped into thinking of creating screens. It led me to nowhere. The moment I started thinking in terms of user flows it became very obvious. Design the most important flows first and later add supporting flows like Onboarding.  Initially, I started designed onboarding and later when I designed core experience I had to make some changes in onboarding. During my next prototype activity, I will do the opposite.
 
-2. **Reuse** - Figma encourages a lot of reuse of design.  I created lot of components are reused them.
+2. **Reuse** - Figma encourages a lot of reuse of design.  I created a lot of components are reused them.
    A lot of difference in paper vs real-life prototype - I feel There is a lot of difference between the paper-based approach and designing on a tool. One of the most important difference is you are thinking more from the perspective of interaction. 
 
-3. **Use a priortization technique like MOSCOW** -  Mobile apps looks small when it comes to designing there are too many things to be done. I kept a limited time to develop a prototype.  During the last day, there were too many items to handle.  Our egos get attached to what you are building and we dont want any imperfections to surface.  This is hard.  I wrote down all the pending items in my trello board and priortised them with MOSCOW method. By doing that I found a balance.  None the less on last day it's always a marathon.  That why you will see color coding. 
+3. **Use a prioritization technique like MOSCOW** -  Mobile apps look small when it comes to designing there are too many things to be done. I kept a limited time to develop a prototype.  During the last day, there were too many items to handle.  Our egos get attached to what you are building and we don't want any imperfections to surface.  This is hard.  I wrote down all the pending items in my Trello board and prioritized them with the MOSCOW method. By doing that I found a balance.  None the less on the last day it's always a marathon.  That why you will see color coding. 
      		
 
    ![prototypetrello.png](../assets/images/prototypetrello.png)
@@ -27,7 +27,7 @@ Now here is my journey for prototyping. Here is how it all started.
 
 ------
 
-I don't want to go too far with prototyping because this area overlaps with  Visual Designer.  To be precise the skill I am targeting to learn is low fidelity prototype.  
+I don't want to go too far with prototyping because this area overlaps with  Visual Designer.  To be precise the skill I am targeting to learn is a low fidelity prototype.  
 
 Tool choice:  This was not a straight forward decision,  I looked at most of the tools.  Most of the tools are paid except pencil (open source).  I played around with Figma. Here is what I liked about it:
 
