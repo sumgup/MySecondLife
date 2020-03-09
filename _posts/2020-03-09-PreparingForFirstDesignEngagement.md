@@ -23,8 +23,9 @@ Since I have defined my target customer, I feel these are the things I should ha
 3. Design process -  What it takes, the duration of the design process.  What is the right team? What are the deliverables of the design process? 
 4. Explaining failure as part of the design process.
 5. What is the role of the UX designer? 
-6. What not to expect from UX designers.
-7. Cost
+6. What not to expect from UX designers?
+7. Metrics of successful design engagement?
+7. Cost?
 
 Cost - I am caught in a chicken and egg problem.  I have the skills but I have no experience. Why do people need an experienced person to execute a job? 
 
@@ -33,7 +34,7 @@ Primarily, experience covers the risk?  So the question is what are risks associ
 1. A beginner will take more time/ Iterations - Can or can not be true.
 2. Quality of deliverables - A beginner might not produce a high-quality deliverable.
 
-There is a third point I wanted to write but I didn't write which is "Complete failure".  I think this can not happen.  The reason is the iterative nature of design thinking. If you fail you try another idea, you keep iterating unless you find success. The success of the design process is defined by many things which need to be measured.  Since I will be working independently I need to define the metrics of success criteria and measure it during the test phase.  This should be part of customer education.
+There is a third point I wanted to write but I didn't write which is "Complete failure".  I think this can not happen.  The reason is the iterative nature of design thinking. If you fail you try another idea, you keep iterating unless you find success. The success of the design process is defined by many criteria which need to be measured.  Since I will be working independently I need to define the metrics of success criteria and measure it during the test phase.  This should be part of customer education.
 
 As you see it is very hard to be objective.  If someone is looking at this situation from a neutral stance then both me and business are taking a risk.  I am giving my time and business is giving its time too.  The solution to the problem can be that both of us bear 50% risk and it depends on the size of the engagement.  I feel this is more of negotiation. 
 
